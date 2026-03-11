@@ -80,7 +80,7 @@ const PaymentDialog = ({ open, onClose, onSelect, total }: PaymentDialogProps) =
               </div>
               <div className="text-center">
                 <p className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Scan to Pay</p>
-                <p className="font-bold text-lg">tanisharestaurant@upi</p>
+                <p className="font-bold text-lg">tanisharestaurant@ybl-upi</p>
               </div>
             </div>
 
