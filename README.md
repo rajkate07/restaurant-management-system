@@ -74,9 +74,9 @@ npm start
 ```
 
 ### 3. Frontend Configuration
-Navigate to the `frontend/restaurant-management-sytem lov` folder:
+Navigate to the `frontend` folder:
 ```bash
-cd frontend/restaurant-management-sytem\ lov
+cd frontend
 npm install
 npm run dev
 ```
