@@ -220,7 +220,7 @@ const CustomerNavbar = () => {
                                 className="rounded-full px-6 font-bold shadow-lg shadow-primary/20"
                                 onClick={() => navigate("/auth")}
                             >
-                                Sign In
+                                Log In
                             </Button>
                         )}
                     </div>
