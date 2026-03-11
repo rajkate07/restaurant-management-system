@@ -96,4 +96,4 @@ npm run dev
 This project is licensed under the ISC License.
 
 ---
-*Developed with ❤️ for high-end dining experiences.*
+*Developed with style for high-end dining experiences.*
